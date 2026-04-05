@@ -3,11 +3,11 @@ from logging.handlers import RotatingFileHandler
 
 LOG_FILE_NAME = "bot.log"
 PORT = '8080'
-OWNER_ID = 1234567890
+OWNER_ID = 6366880905
 MSG_EFFECT = 5046509860389126442
 
 # VPLink URL Shortener Configuration
-VPLINK_API_TOKEN = ""
+VPLINK_API_TOKEN = "3994aad64b333549b348342077d5073f89cb9d17"
 VPLINK_API_URL = "https://vplink.in/api"
 
 # URL Shortener Providers Configuration

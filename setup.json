@@ -5,7 +5,7 @@
         "api_id": "24579269",
         "api_hash": "99dff6c471774c2be6ff3d4623a6c0c0",
         "workers": 8,
-        "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
+        "db_uri": "mongodb+srv://rommarco964:cokV7LFVbZPcz10b@cluster0.doyu4ee.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "Awakenersbots",
         "fsubs": [],
         "db": -1003719781842,

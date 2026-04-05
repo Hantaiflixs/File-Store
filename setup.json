@@ -72,8 +72,8 @@
     {
         "session": "ses2",
         "token": "BOT_TOKEN",
-        "api_id": "12345678",
-        "api_hash": "",
+        "api_id": "24579269",
+        "api_hash": "99dff6c471774c2be6ff3d4623a6c0c0",
         "workers": 8,
         "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
         "db_name": "Awakenersbots2",
